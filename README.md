@@ -1,15 +1,33 @@
 ---
 layout: home
-title: Just the Class
-nav_exclude: true
+title: Info
+nav_order: 1
 permalink: /:path/
 seo:
   type: Course
-  name: Just the Class
+  name: CSC 665
 ---
 
-# Just the Class
+# CSC 665: Artificial Intelligence
+San Francisco State University, Fall 2023
 
+**Instructor:** Tyler Dae Devlin
+
+**Time:** 11:00 AM to 12:15 PM, Mondays and Wednesdays
+
+**Location:** EP 101
+
+**Course description:** This course surveys some of the main techniques that have been developed over the past ~70 years in an attempt to create "artificial intelligence." Topics include search, game playing, logic, probabilistic graphical models, machine learning, and deep learning.
+
+**Recommended textbook:** [_Artificial Intelligence: A Modern Approach_](https://aima.cs.berkeley.edu), Stuart Russell & Peter Norvig, 4th edition.
+
+**Grading:** The final grade will be based on the following components:
+- Homework assignments
+- Midterm exam
+- Final exam
+- Participation
+
+<!--  
 Just the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for:
 
 - [announcements](announcements.md),
@@ -37,3 +55,4 @@ Just the Class has been used by instructors at Stanford University ([CS 161](htt
 ### Local development environment
 
 Just the Class requires no special Jekyll plugins and can run on GitHub Pages' standard Jekyll compiler. To setup a local development environment, clone your template repository and follow the GitHub Docs on [Testing your GitHub Pages site locally with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll).
+-->
