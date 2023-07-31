@@ -1,10 +1,26 @@
 ---
-title: Introduction to Java
+title: I. Search
 ---
 
-Sep 28
-: [Java & Git](#)
-  : [1.1](#)
+Tue, Aug 22
+: Search
+  : Reading: chapter 1
+
+Thu, Aug 24
+: Search
+  : Reading: chapter 1
+
+Tue, Aug 29
+: Search
+  : Reading: chapter 1
+
+Thu, Aug 31
+: Search
+  : Reading: chapter 1
+
+Tue, Sep 5
+: Search
+  : Reading: chapter 1
 
 Sep 29
 : **Section**{: .label .label-purple }[Intro to Java](#)
