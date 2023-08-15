@@ -1,51 +1,28 @@
 ---
-title: V. Deep Learning
+title: V. Machine Learning
 ---
 
+Thu, Oct 26
+: Supervised learning, empirical risk minimization, gradient descent 
+  : AIMA 19.1--19.5
+
 Tue, Oct 31
-: Logic
-  : Reading: chapter 1
+: Linear regresion, logistic regression, nonlinear feature transforms
+  : AIMA 19.6
 
 Thu, Nov 2
-: Logic
-  : Reading: chapter 1
+: Overfitting, bias and variance, regularization, validation
+  : 
 
 Tue, Nov 7
-: Logic
-  : Reading: chapter 1
+: Unsupervised learning, k-means, Gaussian mixture models
+  : 
+: **HW5 due**{: .label .label-yellow} **HW6 out**{: .label .label-purple }
 
 Thu, Nov 9
-: Logic
-  : Reading: chapter 1
+: Machine learning wrap-up
+  : 
 
 Tue, Nov 14
-: Logic
-  : Reading: chapter 1
-
-Thu, Nov 16
-: Logic
-  : Reading: chapter 1
-
-Tue, Nov 21
-: Vacation
+: **Midterm 2**{: .label .label-yellow}
   : 
-
-Thu, Nov 23
-: Vacation
-  : 
-
-Tue, Nov 28
-: Logic
-  : Reading: chapter 1
-
-Thu, Nov 30
-: Logic
-  : Reading: chapter 1
-
-Tue, Dec 5
-: Logic
-  : Reading: chapter 1
-
-Thu, Dec 7
-: Logic
-  : Reading: chapter 1

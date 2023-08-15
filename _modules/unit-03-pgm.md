@@ -1,23 +1,19 @@
 ---
-title: III. Probabilistic Graphical Models
+title: III. Constraint Satisfaction Problems
 ---
+Thu, Sep 21
+: Factor graphs, backtracking search, heuristics
+  : AIMA 6
 
 Tue, Sep 26
-: Logic
-  : Reading: chapter 1
+: Arc consistency, AC-3, beam search
+  : 
+: **HW2 due**{: .label .label-yellow} **HW3 out**{: .label .label-purple }
 
 Thu, Sep 28
-: Logic
-  : Reading: chapter 1
+: CSP wrap-up
+  : 
 
 Tue, Oct 3
-: Logic
-  : Reading: chapter 1
-
-Thu, Oct 5
-: Logic
-  : Reading: chapter 1
-
-Tue, Oct 10
-: Logic
-  : Reading: chapter 1
+: **Midterm 1**{: .label .label-yellow }
+  : 

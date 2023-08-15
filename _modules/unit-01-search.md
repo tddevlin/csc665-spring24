@@ -2,38 +2,24 @@
 title: I. Search
 ---
 
-Tue, Aug 22
-: Search
-  : Reading: chapter 1
+Aug 22
+: Course overview
+  : AIMA 1--2 (optional)
+: **HW0 out**{: .label .label-purple }
 
 Thu, Aug 24
-: Search
-  : Reading: chapter 1
+: Uninformed search, backtracking search, BFS, DFS
+  : AIMA 3.1--3.3
 
 Tue, Aug 29
-: Search
-  : Reading: chapter 1
+: UCS, heuristic search, A*, problem relaxation
+  : AIMA 3.4--3.6
+: **HW0 due**{: .label .label-yellow} **HW1 out**{: .label .label-purple }
 
 Thu, Aug 31
-: Search
-  : Reading: chapter 1
+: Adversarial games, minimax, alpha-beta pruning
+  : AIMA 5.1--5.3
 
 Tue, Sep 5
-: Search
-  : Reading: chapter 1
-
-Sep 29
-: **Section**{: .label .label-purple }[Intro to Java](#)
-  : [Solution](#)
-
-Sep 30
-: [Variables & Objects](#)
-  : [1.2](#), [2.1](#)
-
-Oct 1
-: **Lab**{: .label .label-purple } [Intro to Java](#)
-
-Oct 2
-: [Tracing, IntLists, & Recursion](#)
-  : [2.1](#)
-: **HW 1 due**{: .label .label-red }
+: Search wrap-up
+  : 
