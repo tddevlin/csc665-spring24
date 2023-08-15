@@ -13,7 +13,7 @@ San Francisco State University, Fall 2023
 
 **Instructor:** Tyler Dae Devlin
 
-**Time:** 11:00 AM to 12:15 PM, Mondays and Wednesdays
+**Time:** 11:00 AM to 12:15 PM, Tuesdays and Thursdays
 
 **Location:** EP 101
 
