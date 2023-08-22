@@ -11,21 +11,49 @@ seo:
 # CSC 665: Artificial Intelligence
 San Francisco State University, Fall 2023
 
-**Instructor:** Tyler Dae Devlin
+**Instructor:** Tyler Dae Devlin (tddevlin@sfsu.edu)
 
 **Time:** 11:00 AM to 12:15 PM, Tuesdays and Thursdays
 
 **Location:** EP 101
 
-**Course description:** This course surveys some of the main techniques that have been developed over the past ~70 years in an attempt to create "artificial intelligence." Topics include search, game playing, logic, probabilistic graphical models, machine learning, and deep learning.
+**Office hours:** Tuesdays 10 -- 11 am and Thursdays 12:15 -- 1 pm, TH 434
 
-**Recommended textbook:** [_Artificial Intelligence: A Modern Approach_](https://aima.cs.berkeley.edu), Stuart Russell & Peter Norvig, 4th edition.
+**Course description:** This course surveys some of the main techniques that have been developed over the past ~70 years in an attempt to create "artificial intelligence." Topics include search, game playing, logic, constraint satisfactions problems, probabilistic graphical models, machine learning, and deep learning.
+
+**Optional textbook:** [_Artificial Intelligence: A Modern Approach_](https://aima.cs.berkeley.edu), Stuart Russell & Peter Norvig, 4th edition.
 
 **Grading:** The final grade will be based on the following components:
-- Homework assignments
-- Midterm exam
-- Final exam
-- Participation
+- 60% homework assignments (6 assignments worth 10% each)
+- 20% midterm exams (2 exams worth 10% each)
+- 20% final exam
+- 2% participation (extra credit)
+
+<!-- | 48%  | homework assignments (6 assignments worth 8% each)    |
+| 30% | midterm exams (2 exams worth 15% each)     |
+| 20%    | final exam    |
+| 2% | participation | -->
+
+Letter grades will be assigned according to the following cutoffs:
+
+| [93, 100] |  A |
+| [90, 93)  | A- |
+| [87, 90)  | B+ |
+| [83, 87)  | B  |
+| [80, 83)  | B- |
+| [77, 80)  | C+ |
+| [73, 77)  | C  |
+| [70, 73)  | C- |
+| [67, 70)  | D+ |
+| [63, 67)  | D  |
+| [60, 63)  | D- |
+| [0, 60)   | F  |
+
+The left endpoint of any of these intervals may be lowered at the end of the semester, but the right endpoints will not be increased.
+
+**Late work:** All homeworks are due at 11:59 pm on Mondays and should be submitted via Canvas. Late submissions will be assessed a 10% penalty per day after the due date, up to a maximum of 5 days late. Each student is granted one late waiver which can be used to exempt any homework assignment from the late penalty; the late deadline in this case is still 5 days after the normal due date (i.e. 11:59 pm on the Saturday of the same week).
+
+**Other details:** See [the syllabus](https://syllabus.sfsu.edu/syllabus/2237-10235/view) for the complete list of course policies.
 
 <!--  
 Just the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for:
