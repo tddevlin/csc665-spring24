@@ -4,7 +4,7 @@ title: I. Search
 
 Aug 22
 : Course overview
-  : AIMA 1--2 (optional)
+  : [slides](../assets/files/L01-overview.pdf), AIMA 1--2 (optional)
 : **HW0 out**{: .label .label-purple }
 
 Aug 24
