@@ -28,6 +28,8 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
+  campuswire:
+    - 'https://campuswire.com/p/G3B435EA4'
   Tyler Dae Devlin:
     - 'https://tddevlin.github.io'
 footer_content:
