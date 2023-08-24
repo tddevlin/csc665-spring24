@@ -8,8 +8,10 @@ Aug 22
 : **HW0 out**{: .label .label-purple }
 
 Aug 24
-: Uninformed search, backtracking search, BFS, DFS
-  : AIMA 3.1--3.3
+: Modeling search, backtracking search
+  : [slides](../assets/files/L02-search.pdf), [goat.py](../assets/files/goat.py), AIMA 3.1--3.3
+
+<!-- BFS, DFS -->
 
 Aug 29
 : UCS, heuristic search, A*, problem relaxation
