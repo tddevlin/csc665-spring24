@@ -18,10 +18,10 @@ Aug 29
 
 Aug 31
 : Heuristic search, A*, problem relaxation
-  : AIMA 5.1--5.3
+  : [slides](../assets/files/L04-search.pdf)
 
 Sep 5
 : Adversarial games, minimax, alpha-beta pruning
-  : 
+  : AIMA 5.1--5.3
 
 <!--  -->
