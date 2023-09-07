@@ -13,15 +13,13 @@ Aug 24
 
 Aug 29
 : BFS, DFS, UCS
-  : [slides](../assets/files/L03-search.pdf), [goated.py](../assets/files/goated.py), [mazes](../assets/files/maze.pdf), AIMA 3.4--3.6
+  : [slides](../assets/files/L03-search.pdf), [goated.py](../assets/files/goated.py), [mazes](../assets/files/maze.pdf), AIMA 3.4
 : **HW0 due**{: .label .label-yellow} **HW1 out**{: .label .label-purple }
 
 Aug 31
 : Heuristic search, A*, problem relaxation
-  : [slides](../assets/files/L04-search.pdf)
+  : [slides](../assets/files/L04-search.pdf), AIMA 3.5--3.6
 
 Sep 5
 : Adversarial games, minimax, alpha-beta pruning
-  : AIMA 5.1--5.3
-
-<!--  -->
+  : [slides](../assets/files/L05-search.pdf), AIMA 5.1--5.2
