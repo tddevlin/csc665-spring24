@@ -15,3 +15,8 @@ description: Homework assignments for the course.
 - **Due:** Monday 9/11, 11:59 pm
 - **Problems:** [hw1.pdf](/assets/files/hw1.pdf)
 - **Code:** [hw1.zip](/assets/files/hw1.zip)
+
+## Homework 2
+- **Due:** Monday 9/25, 11:59 pm
+- **Problems:** [hw2.pdf](/assets/files/hw2.pdf)
+- **Code:** [hw2.zip](/assets/files/hw2.zip)
