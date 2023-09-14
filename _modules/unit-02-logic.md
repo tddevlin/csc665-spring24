@@ -12,10 +12,10 @@ Sep 12
 : **HW1 due**{: .label .label-yellow} **HW2 out**{: .label .label-purple }
 
 Sep 14
-: Resolution, first-order logic
-  : AIMA 8--9
+: Resolution
+  : AIMA 7.5
 
 Sep 19
-: Logic wrap-up
-  : 
+: First-order logic
+  : AIMA 8
 
