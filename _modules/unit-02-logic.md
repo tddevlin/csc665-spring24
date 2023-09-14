@@ -7,8 +7,8 @@ Sep 7
   : [notes](../assets/files/L06-logic.pdf), AIMA 7.1--7.4 
 
 Sep 12
-: Model checking, inference
-  : 
+: Model checking, inference rules
+  : [notes](../assets/files/L07-logic.pdf), AIMA 7.4--7.5
 : **HW1 due**{: .label .label-yellow} **HW2 out**{: .label .label-purple }
 
 Sep 14
