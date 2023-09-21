@@ -17,5 +17,5 @@ Sep 14
 
 Sep 19
 : First-order logic
-  : AIMA 8
+  : [notes](../assets/files/L09-logic.pdf), AIMA 8
 
