@@ -6,12 +6,12 @@ Sep 21
   : [slides](../assets/files/L10-csp.pdf), AIMA 6.1
 
 Sep 26
-: Backtracking search, heuristics, Arc consistency, AC-3, beam search
-  : 
+: Backtracking search, heuristics, crc consistency, AC-3
+  : [slides](../assets/files/L11-csp.pdf)
 : **HW2 due**{: .label .label-yellow} **HW3 out**{: .label .label-purple }
 
 Sep 28
-: CSP wrap-up
+: Beam search, midterm review
   : 
 
 Oct 3
