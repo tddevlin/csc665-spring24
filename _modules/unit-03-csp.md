@@ -2,11 +2,11 @@
 title: III. Constraint Satisfaction Problems
 ---
 Sep 21
-: Factor graphs, backtracking search, heuristics
-  : AIMA 6
+: Factor graphs, assignment weights
+  : [slides](../assets/files/L10-csp.pdf), AIMA 6.1
 
 Sep 26
-: Arc consistency, AC-3, beam search
+: Backtracking search, heuristics, Arc consistency, AC-3, beam search
   : 
 : **HW2 due**{: .label .label-yellow} **HW3 out**{: .label .label-purple }
 
