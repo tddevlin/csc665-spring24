@@ -2,9 +2,8 @@
 title: IV. Probabilistic Graphical Models
 ---
 Oct 5
-: Probability theory, random variables, expected values
-  : AIMA 12.1--12.3
-
+: Exam solutions
+  : [Midterm 1 histogram](../assets/files/midterm-stats.pdf)
 Oct 10
 : Joint distributions, marginalization, conditioning, independence
   : AIMA 12.4--12.7
@@ -26,3 +25,5 @@ Oct 24
 : Graphical models wrap-up
   : 
 : **HW4 due**{: .label .label-yellow} **HW5 out**{: .label .label-purple }
+
+<!-- Probability theory, random variables, expected values ; AIMA 12.1--12.3-->
