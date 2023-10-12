@@ -4,14 +4,15 @@ title: IV. Probabilistic Graphical Models
 Oct 5
 : Exam solutions
   : [Midterm 1 histogram](../assets/files/midterm-stats.pdf)
+
 Oct 10
-: Joint distributions, marginalization, conditioning, independence
-  : AIMA 12.4--12.7
+: From logic to probability, conditional probability, random variables
+  : AIMA 12.1--12.2
 : **HW3 due**{: .label .label-yellow} **HW4 out**{: .label .label-purple }
 
 Oct 12
-: Markov networks, Gibbs sampling
-  : 
+: Joint distributions, marginalization, independence, Bayes' rule
+  : 12.3--12.5
 
 Oct 17
 : Bayesian networks, conditional independence, explaining away, d-separation
@@ -26,4 +27,6 @@ Oct 24
   : 
 : **HW4 due**{: .label .label-yellow} **HW5 out**{: .label .label-purple }
 
-<!-- Probability theory, random variables, expected values ; AIMA 12.1--12.3-->
+<!-- Probability theory, random variables, expected values ; AIMA 12.1--12.3
+Joint distributions, marginalization, conditioning, independence
+Markov networks, Gibbs sampling-->
