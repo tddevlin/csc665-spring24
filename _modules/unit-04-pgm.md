@@ -8,7 +8,7 @@ Oct 5
 Oct 10
 : From logic to probability, conditional probability, random variables
   : [notes](../assets/files/L12-pgm.pdf), AIMA 12.1--12.2
-: **HW3 due**{: .label .label-yellow} **HW4 out**{: .label .label-purple }
+: **HW3 due**{: .label .label-yellow}
 
 Oct 12
 : Joint distributions, marginalization, independence, Bayes' rule
@@ -17,6 +17,7 @@ Oct 12
 Oct 17
 : Bayesian networks, conditional independence, explaining away, d-separation
   : AIMA 13.1--13.2
+: **HW4 out**{: .label .label-purple }
 
 Oct 19
 : Inference by enumeration, sampling methods, MCMC
@@ -25,7 +26,6 @@ Oct 19
 Oct 24
 : Graphical models wrap-up
   : 
-: **HW4 due**{: .label .label-yellow} **HW5 out**{: .label .label-purple }
 
 <!-- Probability theory, random variables, expected values ; AIMA 12.1--12.3
 Joint distributions, marginalization, conditioning, independence

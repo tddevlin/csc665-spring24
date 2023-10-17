@@ -9,6 +9,7 @@ Oct 26
 Oct 31
 : Linear regresion, logistic regression, nonlinear feature transforms
   : AIMA 19.6
+: **HW4 due**{: .label .label-yellow} **HW5 out**{: .label .label-purple }
 
 Nov 2
 : Overfitting, bias and variance, regularization, validation
@@ -17,7 +18,6 @@ Nov 2
 Nov 7
 : Unsupervised learning, k-means, Gaussian mixture models
   : 
-: **HW5 due**{: .label .label-yellow} **HW6 out**{: .label .label-purple }
 
 Nov 9
 : Machine learning wrap-up
@@ -26,3 +26,4 @@ Nov 9
 Nov 14
 : **Midterm 2**{: .label .label-yellow}
   : 
+: **HW5 due**{: .label .label-yellow} **HW6 out**{: .label .label-purple }
