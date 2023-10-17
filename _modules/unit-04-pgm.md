@@ -7,7 +7,7 @@ Oct 5
 
 Oct 10
 : From logic to probability, conditional probability, random variables
-  : AIMA 12.1--12.2
+  : [notes](../assets/files/L12-pgm.pdf), AIMA 12.1--12.2
 : **HW3 due**{: .label .label-yellow} **HW4 out**{: .label .label-purple }
 
 Oct 12
