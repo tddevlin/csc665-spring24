@@ -16,7 +16,7 @@ Oct 12
 
 Oct 17
 : Bayesian networks, conditional independence, explaining away, d-separation
-  : AIMA 13.1--13.2
+  : [slides](../assets/files/L14-pgm.pdf), AIMA 13.1--13.2
 : **HW4 out**{: .label .label-purple }
 
 Oct 19
@@ -27,6 +27,5 @@ Oct 24
 : Graphical models wrap-up
   : 
 
-<!-- Probability theory, random variables, expected values ; AIMA 12.1--12.3
-Joint distributions, marginalization, conditioning, independence
+<!-- expected values
 Markov networks, Gibbs sampling-->
