@@ -12,7 +12,7 @@ Oct 10
 
 Oct 12
 : Joint distributions, marginalization, independence, Bayes' rule
-  : 12.3--12.5
+  : [notes](../assets/files/L13-pgm.pdf), 12.3--12.5
 
 Oct 17
 : Bayesian networks, conditional independence, explaining away, d-separation
