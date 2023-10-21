@@ -20,8 +20,8 @@ Oct 17
 : **HW4 out**{: .label .label-purple }
 
 Oct 19
-: Inference by enumeration, sampling methods, MCMC
-  : AIMA 13.3--13.5
+: Exact inference by enumeration, sampling
+  : [slides](../assets/files/L15-pgm.pdf), AIMA 13.3
 
 Oct 24
 : Graphical models wrap-up
