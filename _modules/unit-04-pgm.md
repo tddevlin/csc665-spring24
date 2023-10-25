@@ -3,7 +3,7 @@ title: IV. Probabilistic Graphical Models
 ---
 Oct 5
 : Exam solutions
-  : [Midterm 1 histogram](../assets/files/midterm-stats.pdf)
+  : [midterm 1 histogram](../assets/files/midterm-stats.pdf)
 
 Oct 10
 : From logic to probability, conditional probability, random variables
@@ -20,12 +20,9 @@ Oct 17
 : **HW4 out**{: .label .label-purple }
 
 Oct 19
-: Exact inference by enumeration, sampling
+: Exact inference by enumeration, forward sampling
   : [slides](../assets/files/L15-pgm.pdf), AIMA 13.3
 
 Oct 24
-: Graphical models wrap-up
-  : 
-
-<!-- expected values
-Markov networks, Gibbs sampling-->
+: Approximate inference, rejection sampling, importance sampling, likelihood weighting
+  : [slides](../assets/files/L16-pgm.pdf), [sampling](../assets/files/bn-sampling.pdf), AIMA 13.4
