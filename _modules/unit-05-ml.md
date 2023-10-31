@@ -3,8 +3,8 @@ title: V. Machine Learning
 ---
 
 Oct 26
-: Supervised learning, empirical risk minimization, gradient descent 
-  : AIMA 19.1--19.5
+: Supervised learning, empirical risk minimization, decision trees
+  : [slides](../assets/files/L17-ml.pdf), AIMA 19.1--19.3
 
 Oct 31
 : Linear regresion, logistic regression, nonlinear feature transforms
@@ -27,3 +27,5 @@ Nov 14
 : **Midterm 2**{: .label .label-yellow}
   : 
 : **HW5 due**{: .label .label-yellow} **HW6 out**{: .label .label-purple }
+
+<!-- gradient descent -->
