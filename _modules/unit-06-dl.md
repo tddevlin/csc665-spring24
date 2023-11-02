@@ -5,6 +5,7 @@ title: VI. Deep Learning
 Nov 16
 : Adaptive basis functions, feedforward networks
   : AIMA 21
+: **HW5 due**{: .label .label-yellow}
 
 Nov 21
 : --

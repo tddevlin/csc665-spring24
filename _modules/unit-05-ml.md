@@ -9,11 +9,12 @@ Oct 26
 Oct 31
 : Fitting decision trees, linear regresion
   : [slides](../assets/files/L18-ml.pdf), AIMA 19.3, 19.6
-: **HW4 due**{: .label .label-yellow} **HW5 out**{: .label .label-purple }
+: **HW4 due**{: .label .label-yellow} 
 
 Nov 2
 : Overfitting, bias and variance, regularization, validation
   : 
+: **HW5 out**{: .label .label-purple }
 
 Nov 7
 : Unsupervised learning, k-means, Gaussian mixture models
@@ -26,6 +27,6 @@ Nov 9
 Nov 14
 : **Midterm 2**{: .label .label-yellow}
   : 
-: **HW5 due**{: .label .label-yellow} **HW6 out**{: .label .label-purple }
+: **HW6 out**{: .label .label-purple }
 
 <!-- gradient descent, , logistic regression, nonlinear feature transforms -->
