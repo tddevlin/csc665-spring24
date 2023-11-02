@@ -7,8 +7,8 @@ Oct 26
   : [slides](../assets/files/L17-ml.pdf), AIMA 19.1--19.3
 
 Oct 31
-: Linear regresion, logistic regression, nonlinear feature transforms
-  : AIMA 19.6
+: Fitting decision trees, linear regresion
+  : [slides](../assets/files/L18-ml.pdf), AIMA 19.3, 19.6
 : **HW4 due**{: .label .label-yellow} **HW5 out**{: .label .label-purple }
 
 Nov 2
@@ -28,4 +28,4 @@ Nov 14
   : 
 : **HW5 due**{: .label .label-yellow} **HW6 out**{: .label .label-purple }
 
-<!-- gradient descent -->
+<!-- gradient descent, , logistic regression, nonlinear feature transforms -->
