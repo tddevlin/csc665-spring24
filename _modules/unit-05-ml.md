@@ -12,8 +12,8 @@ Oct 31
 : **HW4 due**{: .label .label-yellow} 
 
 Nov 2
-: Overfitting, bias and variance, regularization, validation
-  : 
+: Multiple linear regression, gradient descent
+  : [slides](../assets/files/L19-ml.pdf), AIMA 19.6
 : **HW5 out**{: .label .label-purple }
 
 Nov 7
@@ -29,4 +29,4 @@ Nov 14
   : 
 : **HW6 out**{: .label .label-purple }
 
-<!-- gradient descent, , logistic regression, nonlinear feature transforms -->
+<!-- Overfitting, bias and variance, regularization, validation, logistic regression, nonlinear feature transforms -->
