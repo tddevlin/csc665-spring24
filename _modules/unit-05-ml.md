@@ -17,8 +17,8 @@ Nov 2
 : **HW5 out**{: .label .label-purple }
 
 Nov 7
-: Unsupervised learning, k-means, Gaussian mixture models
-  : 
+: Training vs. testing, pproximation vs. generalization, bias vs. variance
+  : [slides](../assets/files/L20-ml.pdf)
 
 Nov 9
 : Machine learning wrap-up
@@ -29,4 +29,4 @@ Nov 14
   : 
 : **HW6 out**{: .label .label-purple }
 
-<!-- Overfitting, bias and variance, regularization, validation, logistic regression, nonlinear feature transforms -->
+<!-- Overfitting, regularization, validation, logistic regression, nonlinear feature transforms, Unsupervised learning, k-means, Gaussian mixture models -->
