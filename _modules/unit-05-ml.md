@@ -17,16 +17,20 @@ Nov 2
 : **HW5 out**{: .label .label-purple }
 
 Nov 7
-: Training vs. testing, pproximation vs. generalization, bias vs. variance
+: Training vs. testing, approximation vs. generalization, bias vs. variance
   : [slides](../assets/files/L20-ml.pdf)
 
 Nov 9
-: Machine learning wrap-up
+: Midterm review
   : 
 
 Nov 14
 : **Midterm 2**{: .label .label-yellow}
   : 
-: **HW6 out**{: .label .label-purple }
+
+Nov 16
+: Midterm solutions
+  : [midterm 2 histogram](../assets/files/midterm2-stats.pdf)
+: **HW5 due**{: .label .label-yellow}
 
 <!-- Overfitting, regularization, validation, logistic regression, nonlinear feature transforms, Unsupervised learning, k-means, Gaussian mixture models -->

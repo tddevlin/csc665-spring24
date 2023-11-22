@@ -2,11 +2,6 @@
 title: VI. Deep Learning
 ---
 
-Nov 16
-: Adaptive basis functions, feedforward networks
-  : AIMA 21
-: **HW5 due**{: .label .label-yellow}
-
 Nov 21
 : --
   : 
@@ -18,6 +13,7 @@ Nov 23
 Nov 28
 : Backpropagation
   : 
+: **HW6 out**{: .label .label-purple }
 
 Nov 30
 : Word embeddings, RNNs, transfer learning
