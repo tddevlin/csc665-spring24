@@ -29,5 +29,5 @@ Dec 7
 : **HW6 due**{: .label .label-yellow}
 
 Dec 12
-: **Final Exam**{: .label .label-yellow} 12:30 -- 2:30 pm
+: **Final Exam**{: .label .label-yellow} 10:15 am -- 12:15 pm
   : 
