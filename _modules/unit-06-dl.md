@@ -2,22 +2,10 @@
 title: VI. Deep Learning
 ---
 
-Nov 21
-: --
-  : 
-
-Nov 23
-: --
-  : 
-
-Nov 28
-: Backpropagation
-  : 
-: **HW6 out**{: .label .label-purple }
-
 Nov 30
 : Word embeddings, RNNs, transfer learning
   : 
+: **HW6 out**{: .label .label-purple }
 
 Dec 5
 : Transformers

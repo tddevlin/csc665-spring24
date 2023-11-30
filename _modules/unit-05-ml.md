@@ -33,4 +33,16 @@ Nov 16
   : [midterm 2 histogram](../assets/files/midterm2-stats.pdf)
 : **HW5 due**{: .label .label-yellow}
 
+Nov 21
+: --
+  : 
+
+Nov 23
+: --
+  : 
+
+Nov 28
+: Overfitting, regularization
+  : [slides](../assets/files/L21-ml.pdf)
+
 <!-- Overfitting, regularization, validation, logistic regression, nonlinear feature transforms, Unsupervised learning, k-means, Gaussian mixture models -->
