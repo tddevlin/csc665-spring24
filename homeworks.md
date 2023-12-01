@@ -34,3 +34,8 @@ description: Homework assignments for the course.
 ## Homework 5
 - **Due:** Monday 11/15, 11:59 pm
 - **Problems:** [hw5.pdf](/assets/files/hw5.pdf)
+
+## Homework 6
+- **Due:** Thursday 12/7, 11:59 pm
+- **Problems:** [hw6.pdf](/assets/files/hw6.pdf)
+- **Code:** [hw0.py](/assets/files/regularization.py)
