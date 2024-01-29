@@ -17,7 +17,7 @@ title: CSC 665
 tagline: 'SFSU CSC 665: Artificial Intelligence'
 description: The course page for CSC 665 at SF State.
 author: Tyler Dae Devlin
-baseurl: '/csc665-fall23' # the subpath of your site, e.g. /blog
+baseurl: '/csc665-spring24' # the subpath of your site, e.g. /blog
 url: 'https://tddevlin.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
