@@ -9,19 +9,19 @@ seo:
 ---
 
 # CSC 665: Artificial Intelligence
-San Francisco State University, Fall 2023
+San Francisco State University, Spring 2024
 
 **Instructor:** Tyler Dae Devlin (tddevlin@sfsu.edu)
 
 **Time:** 11:00 AM to 12:15 PM, Tuesdays and Thursdays
 
-**Location:** EP 101
+**Location:** HUM 386
 
 **Office hours:** Tuesdays 10 -- 11 am and Thursdays 12:15 -- 1 pm, TH 434
 
 **Course description:** This course surveys some of the main techniques that have been developed over the past ~70 years in an attempt to create "artificial intelligence." Topics include search, game playing, logic, constraint satisfactions problems, probabilistic graphical models, machine learning, and deep learning.
 
-**Optional textbook:** [_Artificial Intelligence: A Modern Approach_](https://aima.cs.berkeley.edu), Stuart Russell & Peter Norvig, 4th edition.
+**Optional textbook:** [_Artificial Intelligence: Foundations of Compoutational Agents_](https://artint.info/3e/html/ArtInt3e.html), David L. Poole & Alan K. Mackworth, 3rd edition.
 
 **Grading:** The final grade will be based on the following components:
 - 60% homework assignments (6 assignments worth 10% each)

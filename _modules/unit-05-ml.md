@@ -2,47 +2,40 @@
 title: V. Machine Learning
 ---
 
-Oct 26
+Apr 11
 : Supervised learning, empirical risk minimization, decision trees
-  : [slides](../assets/files/L17-ml.pdf), AIMA 19.1--19.3
+  : 
 
-Oct 31
+Apr 16
 : Fitting decision trees, linear regresion
-  : [slides](../assets/files/L18-ml.pdf), AIMA 19.3, 19.6
+  : 
 : **HW4 due**{: .label .label-yellow} 
 
-Nov 2
+Apr 18
 : Multiple linear regression, gradient descent
-  : [slides](../assets/files/L19-ml.pdf), AIMA 19.6
+  : 
 : **HW5 out**{: .label .label-purple }
 
-Nov 7
+Apr 23
 : Training vs. testing, approximation vs. generalization, bias vs. variance
-  : [slides](../assets/files/L20-ml.pdf)
+  : 
 
-Nov 9
+Apr 25
 : Midterm review
   : 
 
-Nov 14
+Apr 30
 : **Midterm 2**{: .label .label-yellow}
   : 
 
-Nov 16
+May 2
 : Midterm solutions
-  : [midterm 2 histogram](../assets/files/midterm2-stats.pdf)
+  : 
 : **HW5 due**{: .label .label-yellow}
 
-Nov 21
-: --
-  : 
-
-Nov 23
-: --
-  : 
-
-Nov 28
+May 7
 : Overfitting, regularization
-  : [slides](../assets/files/L21-ml.pdf)
+  : 
+
 
 <!-- Overfitting, regularization, validation, logistic regression, nonlinear feature transforms, Unsupervised learning, k-means, Gaussian mixture models -->

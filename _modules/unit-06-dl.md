@@ -2,20 +2,21 @@
 title: VI. Deep Learning
 ---
 
-Nov 30
+May 9
 : Word embeddings, RNNs, transfer learning
   : 
 : **HW6 out**{: .label .label-purple }
 
-Dec 5
+May 14
 : Transformers
   : 
 
-Dec 7
+May 16
 : Course conclusion
   : 
 : **HW6 due**{: .label .label-yellow}
 
-Dec 12
+
+May 21
 : **Final Exam**{: .label .label-yellow} 10:15 am -- 12:15 pm
   : 
