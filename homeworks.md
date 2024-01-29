@@ -7,11 +7,11 @@ description: Homework assignments for the course.
 # Homeworks
 
 ## Homework 0
-- **Due:** Monday 8/28, 11:59 pm
+- **Due:** Monday 2/5, 11:59 pm
 - **Problems:** [hw0.pdf](/assets/files/hw0.pdf)
 - **Code:** [hw0.py](/assets/files/hw0.py)
 
-## Homework 1
+<!-- ## Homework 1
 - **Due:** Monday 9/11, 11:59 pm
 - **Problems:** [hw1.pdf](/assets/files/hw1.pdf)
 - **Code:** [hw1.zip](/assets/files/hw1.zip)
@@ -38,4 +38,4 @@ description: Homework assignments for the course.
 ## Homework 6
 - **Due:** Thursday 12/7, 11:59 pm
 - **Problems:** [hw6.pdf](/assets/files/hw6.pdf)
-- **Code:** [hw0.py](/assets/files/regularization.py)
+- **Code:** [hw0.py](/assets/files/regularization.py) -->
