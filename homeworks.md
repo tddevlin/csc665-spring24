@@ -7,7 +7,7 @@ description: Homework assignments for the course.
 # Homeworks
 
 ## Homework 0
-- **Due:** Monday 2/5, 11:59 pm
+- **Due:** Wednesday 2/7, 11:59 pm
 - **Problems:** [hw0.pdf](/assets/files/hw0.pdf)
 - **Code:** [hw0.py](/assets/files/hw0.py)
 
