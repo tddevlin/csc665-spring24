@@ -53,7 +53,7 @@ The left endpoint of any of these intervals may be lowered at the end of the sem
 
 **Late work:** All homeworks are due at 11:59 pm on Mondays and should be submitted via Canvas. Late submissions will be assessed a 10% penalty per day after the due date, up to a maximum of 5 days late. Each student is granted one late waiver which can be used to exempt any homework assignment from the late penalty; the late deadline in this case is still 5 days after the normal due date (i.e. 11:59 pm on the Saturday of the same week).
 
-**Other details:** See [the syllabus](https://syllabus.sfsu.edu/syllabus/2237-10235/view) for the complete list of course policies.
+**Other details:** See [the syllabus](https://syllabus.sfsu.edu/syllabus/2243-8248/view) for the complete list of course policies.
 
 <!--  
 Just the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for:
