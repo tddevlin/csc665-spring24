@@ -9,8 +9,7 @@ Jan 30
 
 Feb 1
 : Course overview
-  : P&M 1--2 (optional)
-: [slides](../assets/files/L01-overview.pdf), [red week zine](../assets/files/REDWEEKZINE.pdf)
+  : [slides](../assets/files/L01-overview.pdf), [red week zine](../assets/files/REDWEEKZINE.pdf), P&M 1--2 (optional)
 
 Feb 6
 : Modeling search, backtracking search
