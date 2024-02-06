@@ -25,13 +25,12 @@ Apr 25
   : 
 
 Apr 30
-: **Midterm 2**{: .label .label-yellow}
+: **Midterm 2**{: .label .label-yellow} **HW5 due**{: .label .label-yellow}
   : 
 
 May 2
 : Midterm solutions
   : 
-: **HW5 due**{: .label .label-yellow}
 
 May 7
 : Overfitting, regularization
