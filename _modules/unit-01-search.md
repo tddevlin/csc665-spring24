@@ -13,7 +13,7 @@ Feb 1
 
 Feb 6
 : Modeling search, backtracking search
-  : P&M 3.1--3.4
+  : [slides](../assets/files/L02-search.pdf), [goat_partial.py](../assets/files/goat_partial.py), P&M 3.1--3.4
 : **HW1 out**{: .label .label-purple }
 
 Feb 8
