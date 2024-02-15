@@ -18,14 +18,18 @@ Feb 6
 
 Feb 8
 : BFS, DFS, UCS
-  : P&M 3.5
+  : [slides](../assets/files/L03-search.pdf), P&M 3.5
 : **HW0 due**{: .label .label-yellow}
 
 Feb 13
-: Heuristic search, A*, problem relaxation
-  : P&M 3.6
+: Heuristic search, A*
+  : [slides](../assets/files/L04-search.pdf), P&M 3.6
+
+Feb 15
+: Problem relaxation, adversarial games, minimax, alpha-beta pruning
+  : P&M 14.1--14.3
 
 <!-- 
-Adversarial games, minimax, alpha-beta pruning
+problem relaxation, Adversarial games, minimax, alpha-beta pruning
 P&M 14.1--14.3
  -->
