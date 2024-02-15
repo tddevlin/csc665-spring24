@@ -12,7 +12,7 @@ description: Homework assignments for the course.
 - **Code:** [hw0.py](/assets/files/hw0.py)
 
 ## Homework 1
-- **Due:** Monday 2/19, 11:59 pm
+- **Due:** Monday 2/26, 11:59 pm
 - **Problems:** [hw1.pdf](/assets/files/hw1.pdf)
 - **Code:** [hw1.zip](/assets/files/hw1.zip)
 
