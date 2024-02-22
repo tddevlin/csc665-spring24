@@ -26,8 +26,12 @@ Feb 13
   : [slides](../assets/files/L04-search.pdf), P&M 3.6
 
 Feb 15
-: Problem relaxation, adversarial games, minimax, alpha-beta pruning
-  : P&M 14.1--14.3
+: Problem relaxation, adversarial games, minimax game trees
+  : [slides](../assets/files/L05-search.pdf), P&M 14.1--14.3
+
+Feb 20
+: Minimax recurrence, alpha-beta pruning
+  : [slides](../assets/files/L06-search.pdf)
 
 <!-- 
 problem relaxation, Adversarial games, minimax, alpha-beta pruning
