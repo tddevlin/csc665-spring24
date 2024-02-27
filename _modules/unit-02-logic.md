@@ -2,19 +2,27 @@
 title: II. Logic
 ---
 
-Feb 20
+Feb 27
 : Boolean algebra, propositional logic, syntax, semantics
   : 
-: **HW2 out**{: .label .label-purple }
+: **HW1 due**{: .label .label-yellow} **HW2 out**{: .label .label-purple }
 
-Feb 22
+Feb 29
 : Model checking, inference rules, forward inference with modus ponens, Horn clauses
   : 
 
-Feb 27
+Mar 5
 : Conjunctive normal form, inference by resolution
   : 
-: **HW1 due**{: .label .label-yellow}
+
+Mar 7
+: Exam review
+  : 
+
+Mar 12
+: **Midterm 1**{: .label .label-yellow }
+  : 
+: **HW2 due**{: .label .label-yellow} **HW3 out**{: .label .label-purple }
 
 <!-- Feb 29
 : First-order logic

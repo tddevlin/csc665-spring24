@@ -33,7 +33,5 @@ Feb 20
 : Minimax recurrence, alpha-beta pruning
   : [slides](../assets/files/L06-search.pdf)
 
-<!-- 
-problem relaxation, Adversarial games, minimax, alpha-beta pruning
-P&M 14.1--14.3
- -->
+Feb 22
+: HW0 review
