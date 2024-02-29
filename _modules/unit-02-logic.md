@@ -4,7 +4,7 @@ title: II. Logic
 
 Feb 27
 : Boolean algebra, propositional logic, syntax, semantics
-  : 
+  : [slides](../assets/files/L07-logic.pdf)
 : **HW1 due**{: .label .label-yellow} **HW2 out**{: .label .label-purple }
 
 Feb 29
