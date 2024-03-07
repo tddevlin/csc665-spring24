@@ -16,8 +16,8 @@ Mar 5
   : [notes](../assets/files/L09-logic.pdf)
 
 Mar 7
-: Exam review
-  : 
+: First-order logic
+  : [notes](../assets/files/L10-logic.pdf)
 
 Mar 12
 : **Midterm 1**{: .label .label-yellow }
