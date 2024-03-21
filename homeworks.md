@@ -22,12 +22,12 @@ description: Homework assignments for the course.
 - **Code:** [hw2.zip](/assets/files/hw2.zip)
 
 
-<!-- ## Homework 3
-- **Due:** Monday 10/9, 11:59 pm
-- **Problems:** [hw3.pdf](/assets/files/hw3.pdf)
-- **Code:** [hw3.zip](/assets/files/hw3.zip)
+## Homework 3
+- **Due:** Monday 4/8, 11:59 pm
+- **Problems:** [hw3.pdf](/assets/files/hw3-s24.pdf)
+- **Code:** [hw3.zip](/assets/files/hw3-s24.zip)
 
-## Homework 4
+<!-- ## Homework 4
 - **Due:** Monday 10/30, 11:59 pm
 - **Problems:** [hw4.pdf](/assets/files/hw4.pdf)
 - **Code:** [hw4.zip](/assets/files/hw4.zip)
