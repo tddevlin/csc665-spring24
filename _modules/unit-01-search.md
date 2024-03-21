@@ -31,7 +31,7 @@ Feb 15
 
 Feb 20
 : Minimax recurrence, alpha-beta pruning
-  : [slides](../assets/files/L06-search.pdf)
+  : [slides](../assets/files/L06-search.pdf), P&M 14.3
 
 Feb 22
 : HW0 review
