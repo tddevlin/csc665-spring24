@@ -1,6 +1,6 @@
----
+<!-- ---
 title: III. Constraint Satisfaction Problems
----
+--- -->
 <!-- Feb 29
 : Factor graphs, assignment weights
   : 

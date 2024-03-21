@@ -1,5 +1,5 @@
 ---
-title: IV. Probabilistic Graphical Models
+title: III. Probabilistic Graphical Models
 ---
 Mar 14
 : Exam solutions
