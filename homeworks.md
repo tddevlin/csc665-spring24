@@ -27,12 +27,11 @@ description: Homework assignments for the course.
 - **Problems:** [hw3.pdf](/assets/files/hw3-s24.pdf)
 - **Code:** [hw3.zip](/assets/files/hw3-s24.zip)
 
-<!-- ## Homework 4
-- **Due:** Monday 10/30, 11:59 pm
+## Homework 4
+- **Due:** Monday 4/29, 11:59 pm
 - **Problems:** [hw4.pdf](/assets/files/hw4.pdf)
-- **Code:** [hw4.zip](/assets/files/hw4.zip)
 
-## Homework 5
+<!-- ## Homework 5
 - **Due:** Monday 11/15, 11:59 pm
 - **Problems:** [hw5.pdf](/assets/files/hw5.pdf)
 
