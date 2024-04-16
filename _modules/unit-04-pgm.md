@@ -24,14 +24,14 @@ Mar 28
 
 Apr 2
 : Bayesian networks, conditional independence, explaining away, d-separation
-  : [notes](../assets/files/L13-pgm.pdf)
+  : [slides](../assets/files/L13-pgm.pdf)
 <!-- : **HW4 out**{: .label .label-purple } -->
 
 Apr 4
 : Exact inference by enumeration, forward sampling
-  : [notes](../assets/files/L14-pgm.pdf)
+  : [slides](../assets/files/L14-pgm.pdf)
 
 Apr 9
 : Approximate inference, rejection sampling, importance sampling, likelihood weighting
-  : 
+  : [slides](../assets/files/L15-pgm.pdf), [sampling](../assets/files/bn-sampling.pdf)
 : **HW3 due**{: .label .label-yellow}

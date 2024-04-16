@@ -4,17 +4,17 @@ title: V. Machine Learning
 
 Apr 11
 : Supervised learning, empirical risk minimization, decision trees
-  : 
+  : [slides](../assets/files/L16-ml.pdf)
 
 Apr 16
 : Fitting decision trees, linear regresion
   : 
-: **HW4 due**{: .label .label-yellow} 
+: **HW4 out**{: .label .label-purple }
 
 Apr 18
 : Multiple linear regression, gradient descent
   : 
-: **HW5 out**{: .label .label-purple }
+
 
 Apr 23
 : Training vs. testing, approximation vs. generalization, bias vs. variance
@@ -25,12 +25,13 @@ Apr 25
   : 
 
 Apr 30
-: **Midterm 2**{: .label .label-yellow} **HW5 due**{: .label .label-yellow}
+: **Midterm 2**{: .label .label-yellow} **HW4 due**{: .label .label-yellow}
   : 
 
 May 2
 : Midterm solutions
   : 
+: **HW5 out**{: .label .label-purple }
 
 May 7
 : Overfitting, regularization
