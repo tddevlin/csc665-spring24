@@ -8,17 +8,17 @@ Apr 11
 
 Apr 16
 : Fitting decision trees, linear regresion
-  : 
+  : [slides](../assets/files/L17-ml.pdf)
 : **HW4 out**{: .label .label-purple }
 
 Apr 18
 : Multiple linear regression, gradient descent
-  : 
+  : [slides](../assets/files/L18-ml.pdf)
 
 
 Apr 23
 : Training vs. testing, approximation vs. generalization, bias vs. variance
-  : 
+  : [slides](../assets/files/L19-ml.pdf)
 
 Apr 25
 : Midterm review
