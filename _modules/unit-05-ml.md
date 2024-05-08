@@ -31,11 +31,11 @@ Apr 30
 May 2
 : Midterm solutions
   : 
-: **HW5 out**{: .label .label-purple }
 
 May 7
 : Overfitting, regularization
-  : 
+  : [slides](../assets/files/L20-ml.pdf)
+: **HW5 out**{: .label .label-purple }
 
 
 <!-- Overfitting, regularization, validation, logistic regression, nonlinear feature transforms, Unsupervised learning, k-means, Gaussian mixture models -->

@@ -31,10 +31,10 @@ description: Homework assignments for the course.
 - **Due:** Monday 4/29, 11:59 pm
 - **Problems:** [hw4.pdf](/assets/files/hw4.pdf)
 
-<!-- ## Homework 5
-- **Due:** Monday 11/15, 11:59 pm
+## Homework 5
+- **Due:** Thursday 5/16, 11:59 pm
 - **Problems:** [hw5.pdf](/assets/files/hw5.pdf)
-
+<!--
 ## Homework 6
 - **Due:** Thursday 12/7, 11:59 pm
 - **Problems:** [hw6.pdf](/assets/files/hw6.pdf)

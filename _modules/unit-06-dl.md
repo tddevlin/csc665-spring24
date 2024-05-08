@@ -5,7 +5,6 @@ title: VI. Deep Learning
 May 9
 : Word embeddings, RNNs, transfer learning
   : 
-: **HW6 out**{: .label .label-purple }
 
 May 14
 : Transformers
@@ -14,7 +13,7 @@ May 14
 May 16
 : Course conclusion
   : 
-: **HW6 due**{: .label .label-yellow}
+: **HW5 due**{: .label .label-yellow}
 
 
 May 21
