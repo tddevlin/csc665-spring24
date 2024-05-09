@@ -34,6 +34,7 @@ description: Homework assignments for the course.
 ## Homework 5
 - **Due:** Thursday 5/16, 11:59 pm
 - **Problems:** [hw5.pdf](/assets/files/hw5.pdf)
+- **Code:** [regularization.py](/assets/files/regularization.py)
 
 <!--
 ## Homework 6
